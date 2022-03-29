@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App with react-redux
+
+State Controle using react-redux in simple login form.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
